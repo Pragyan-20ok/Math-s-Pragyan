@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>  // For sqrt() function
 using namespace std;
+//this code is developd by Pragyan Gogoi
 
 int main() {
     double a, b, c;
@@ -24,3 +25,4 @@ int main() {
 
     return 0;
 }
+
