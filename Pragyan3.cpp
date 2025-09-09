@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//this code is develop by Pragyan Gogoi
 
 int main() {
     double a1, b1, c1, a2, b2, c2;
@@ -30,3 +31,4 @@ int main() {
 
     return 0;
 }
+
